@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexFlowUser", "FlexFlowUser\FlexFlowUser.csproj", "{2D4D0C3E-959C-45BA-A971-DEEE6258C64C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexFlowSpecs", "FlexFlowSpecs\FlexFlowSpecs.csproj", "{A5A320CA-8CD5-4257-A83A-050A6E097615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexFlowUserDomain", "FlexFlowUserDomain\FlexFlowUserDomain.csproj", "{FC5074DE-AB5D-4C63-8B60-CE1E7EB0A759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4D0C3E-959C-45BA-A971-DEEE6258C64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4D0C3E-959C-45BA-A971-DEEE6258C64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4D0C3E-959C-45BA-A971-DEEE6258C64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4D0C3E-959C-45BA-A971-DEEE6258C64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A320CA-8CD5-4257-A83A-050A6E097615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A320CA-8CD5-4257-A83A-050A6E097615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A320CA-8CD5-4257-A83A-050A6E097615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A320CA-8CD5-4257-A83A-050A6E097615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5074DE-AB5D-4C63-8B60-CE1E7EB0A759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5074DE-AB5D-4C63-8B60-CE1E7EB0A759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5074DE-AB5D-4C63-8B60-CE1E7EB0A759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5074DE-AB5D-4C63-8B60-CE1E7EB0A759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
