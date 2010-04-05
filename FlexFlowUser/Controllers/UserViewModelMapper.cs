@@ -14,7 +14,6 @@ namespace FlexFlowUser.Controllers
 
         public UsersViewModel MapToViewModel(IEnumerable<User> users)
         {
-
             var userViewModels = new List<UserViewModel>();
             foreach (User user in users)
             {
